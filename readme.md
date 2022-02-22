@@ -97,6 +97,8 @@ Splunk Observability offers wizards to walk you through the setup of the agents 
 
 ![enter image description here](https://github.com/asomensari-splunk/spring-petclinic/blob/main/src/main/resources/static/resources/images/side-menu-data-setup.png?raw=true)
 
+Select Data Setup > Linux > Add Connection
+
 You'll be taken to a short wizard where you will select some options. The default settings should work, no need to make changes. The wizard will output a few commands that need to be executed in the shell. 
 
 Here's an example: 
